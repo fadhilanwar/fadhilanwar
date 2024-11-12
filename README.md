@@ -1,5 +1,9 @@
-<h1 align="center">Hi broo, My Name Fadhil Anwar Ahsani,..</h1>
-<h3 align="center">Greetings!, I'm from Indonesia.</h3>
+<h2 align="center">Hi broo, My Name Fadhil Anwar Ahsani,..</h2>
+<h3 align="left">Greetings!, I'm from Indonesia.</h3>
+
+##
+
+### About
 
 - 📫 Reach me at: **fadhilanwar42@gmail.com**
 
