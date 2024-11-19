@@ -1,5 +1,5 @@
 <h2 align="center">Hi broo, My Name Fadhil Anwar Ahsani,..</h2>
-<h3 align="left">Greetings!, I'm from Indonesia.</h3>
+<h3 align="left">Greetings!, I'm from Indonesia. 🇮🇩</h3>
 
 ##
 
